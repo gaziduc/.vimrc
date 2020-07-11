@@ -7,3 +7,4 @@ set shiftwidth=4
 set expandtab
 set list listchars=tab:»·,trail:·
 set wildmenu
+set completeopt=longest,menuone
